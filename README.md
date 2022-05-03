@@ -353,11 +353,6 @@ Because of the lack of information, I will assume some premisses for each scenar
 <br>
 **Expected ROI: 92%**
 
-# Deploy 
-
-All these analysis, with a dinamic interation, can be found here:
- - https://house-rocket-ph.herokuapp.com/
-
 # Further Improvements
 
 - Re-evaluate the outliers analysis, trying to find a better correlation between the **`living_condition`** feature with the others.
