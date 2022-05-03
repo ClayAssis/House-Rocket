@@ -324,8 +324,6 @@ And for houses with a significant **`living_area`** / **`land_area`** proportion
 
 Because of the lack of information, I will assume some premisses for each scenario simulation.
 
-**OBS:** For more about the decisions made and how it was done: [House_Rocket notebook](https://github.com/pedrofratucci/House_Rocket/blob/main/notebooks/house_rocket_PH.ipynb)
-    
 ## Expected Scenario
 
 - For this scenario, I will assume that the renovation costs will be 30% of the bought house's price.
